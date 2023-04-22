@@ -2,7 +2,7 @@
 
 Este é um MVP simples de um aplicativo web para exibir um conteúdo salvo no banco de dados e editar ele na condição de admin. E exibir as informações da tabela Funcionarios usando models e map pra replicação.
 FrontEnd feito em ReactJS, utilizando as biliotecas do Node.js.
-API RESTful feita usando a biblioteca Express para as rotas e SQLite3 para conectar ao Database.
+API RESTful feita utilizando rotas Expresse e conexão com o Database usando o SQLite3.
 
 ## Funcionalidades
 - READ do conteúdo da caixa sobre.
